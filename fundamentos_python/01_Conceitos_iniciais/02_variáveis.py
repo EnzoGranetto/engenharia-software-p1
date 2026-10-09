@@ -1,0 +1,5 @@
+nome = input("Digite seu nome: ")
+curso = input("Digite seu curso: ")
+idade = input("Digite sua idade: ")
+print("Olá,", nome)
+print("Você tem", idade, "anos e estuda", curso)
